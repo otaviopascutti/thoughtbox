@@ -9,4 +9,6 @@ body {
 textarea {
     height: -webkit-fill-available;
     width: -webkit-fill-available;
+    border: none;
+    text-align: center;
 }
